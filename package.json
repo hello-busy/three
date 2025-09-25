@@ -1,0 +1,17 @@
+{
+  "name": "three",
+  "version": "1.0.0",
+  "description": "A simple application demonstrating the concept of three",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "node test.js"
+  },
+  "keywords": [
+    "three",
+    "number",
+    "math"
+  ],
+  "author": "",
+  "license": "MIT"
+}
